@@ -3,7 +3,7 @@
 This is a web page that converts numeical input into words and passes these words as a string output parameter.
 ## Installation
 Clone or download the repository
-git clone https://github.com/UniqueLeaf/NumberToWordMVC_Testing.git
+git clone https://github.com/UniqueLeaf/NumberToWordMVC.git
 ## How to interact with the solution
 1. Open the file folder: NumberToWordMVC
 2. In the terminal: cd NumberToWordApp
