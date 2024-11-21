@@ -1,0 +1,60 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+input, button, textarea, select {
+    font-family: inherit;
+}
+
+.container {
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+}
+
+
+h1 {
+    color:#001d35;
+    font-size: 25px;
+}
+
+input {
+    width: 100%;
+    font-size: 18px;
+    margin: 0 0 15px 0;
+    border-radius: 5px;
+    border-color: #001d35;
+}
+
+button {
+    border-radius: 16px;
+    color: #001d35;
+    padding: 10px;
+    min-width: 96px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
+    background-color: #C2E7FF;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: #001d35;
+    color: #fff;
+}
+
+p {
+    margin: 15px 0 0 0;
+    font-size: 18px;
+    color: #001d35;
+}

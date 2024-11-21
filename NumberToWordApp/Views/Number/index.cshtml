@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Convert Number to Words";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Number to Words</title>
+    </head>
+    <body>
+        <h1 class="display-4">@ViewData["Title"]</h1>
+        <form method="post" action="/Number/ConvertToWords">
+            <input type="text" name="number" placeholder="Enter a number">
+            <button type="submit">Convert</button>
+        </form>
+        @if (ViewBag.Result != null)
+        {
+            <p>@ViewBag.Result</p>
+        }
+    </body>
+</html>
