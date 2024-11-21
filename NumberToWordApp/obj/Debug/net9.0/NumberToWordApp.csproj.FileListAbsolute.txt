@@ -292,3 +292,4 @@ C:\Users\Diablo\Downloads\NumberToWordMVC\NumberToWordApp\obj\Debug\net9.0\refin
 C:\Users\Diablo\Downloads\NumberToWordMVC\NumberToWordApp\obj\Debug\net9.0\NumberToWordApp.pdb
 C:\Users\Diablo\Downloads\NumberToWordMVC\NumberToWordApp\obj\Debug\net9.0\NumberToWordApp.genruntimeconfig.cache
 C:\Users\Diablo\Downloads\NumberToWordMVC\NumberToWordApp\obj\Debug\net9.0\ref\NumberToWordApp.dll
+C:\Users\Diablo\Downloads\NumberToWordMVC\NumberToWordApp\obj\Debug\net9.0\NumberToWordApp.sourcelink.json

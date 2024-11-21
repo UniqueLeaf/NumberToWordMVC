@@ -1,2 +1,0 @@
-# NumberToWordMVC_Working
-Yeah!
